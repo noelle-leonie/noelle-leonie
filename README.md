@@ -6,7 +6,7 @@ I use they/them pronouns.
 
 I specialize in Cisco and Fortinet devices and currently try to get into Arista.
 
-I am trying to get more into coding and scripting for automatin purposes.
+I am trying to get more into coding and scripting for automation purposes.
 
 <!---
 noelle-leonie/noelle-leonie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
